@@ -15,11 +15,11 @@ for (var i = 0; i < 4; i++) {
                 audio.play();
                 break;
             case 'C':
-                var audio = new Audio('/audios/c.mp3');
+                var audio = new Audio('/audios/C.wav');
                 audio.play();
                 break;
             case 'D':
-                var audio = new Audio('/audios/d.mp3');
+                var audio = new Audio('/audios/D.wav');
                 audio.play();
                 break;
         };
